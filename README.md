@@ -2,7 +2,8 @@
 
 ### CS + Econ student at Cornell University 
 
-### Experience in full-stack web development, DevOps, ML & data analysis through research. 
+### Experienced in full-stack software development, DevOps, ML & data analysis through research. 
+
 
 Check out my personal website at https://wizhaa.com/ or email me at wz282@cornell.edu!
 
