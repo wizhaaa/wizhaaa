@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### CS + Econ student at Cornell University 
+### CS + Econonomics student at Cornell University 
 
-### Experienced in full-stack software development, DevOps, ML & data analysis through research. 
+### into full stack dev + ml + data analytics + finance 
 
 
 Check out my personal website at https://wizhaa.com/ or email me at wz282@cornell.edu!
